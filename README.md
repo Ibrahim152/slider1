@@ -1,1 +1,1 @@
-# slider1
+# slider1 Jquery training
